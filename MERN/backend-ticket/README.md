@@ -2,5 +2,5 @@
 
 ```
 npm init
-npm install express
+npm install express --no-view (without view folder)
 ```
