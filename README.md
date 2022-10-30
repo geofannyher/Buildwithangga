@@ -7,4 +7,4 @@ backend : express JS
 
 frontend : React JS
 
-sudah di hosting di - : http [work in progress]
+sudah di hosting di - : https// [work in progress]
